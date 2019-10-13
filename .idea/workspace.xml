@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66e34ff7-24d1-40fc-8454-bed8f1f6ebe1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/day01_spring_ioc/target/" />
+    <ignored path="$PROJECT_DIR$/../Spring/day02_spring_ioc_anno/target/" />
+    <ignored path="$PROJECT_DIR$/day02_spring_ioc_anno/target/" />
+    <ignored path="$PROJECT_DIR$/day03_aop2/target/" />
+    <ignored path="$PROJECT_DIR$/day03_spring_aop/target/" />
+    <ignored path="$PROJECT_DIR$/day04_spring_jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/day05_springmvc/target/" />
+    <ignored path="$PROJECT_DIR$/day07_springmvc/target/" />
+    <ignored path="$PROJECT_DIR$/day07_springmvc_test/target/" />
+    <ignored path="$PROJECT_DIR$/day08_spring_test/target/" />
+    <ignored path="$PROJECT_DIR$/day09_mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/day08/target/" />
+    <ignored path="$PROJECT_DIR$/day08_anno/target/" />
+    <ignored path="$PROJECT_DIR$/day10_mybatis_dao/target/" />
+    <ignored path="$PROJECT_DIR$/day11_mybatis_multi/target/" />
+    <ignored path="$PROJECT_DIR$/daty11_mybatis_anno/target/" />
+    <ignored path="$PROJECT_DIR$/day11_mybatis_anno/target/" />
+    <ignored path="$PROJECT_DIR$/itheima_ssm/target/" />
+    <ignored path="$PROJECT_DIR$/ssm/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RoleController</find>
+      <find>void</find>
+      <find>AccountMapper</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day11_mybatis_multi/src/main/java/itcast/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/day09_mybatis/src/test/java/itcast/MyBatisTest.java" />
+        <option value="$PROJECT_DIR$/day11_mybatis_multi/src/main/resources/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/day11_mybatis_multi/src/main/java/itcast/domain/Role.java" />
+        <option value="$PROJECT_DIR$/day11_mybatis_multi/src/main/java/itcast/domain/User.java" />
+        <option value="$PROJECT_DIR$/day11_mybatis_multi/src/main/java/itcast/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/day11_mybatis_multi/src/main/resources/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/day11_mybatis_multi/src/test/java/test/MybatisTest.java" />
+        <option value="$PROJECT_DIR$/daty11_mybatis_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/main/java/User.java" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/main/resources/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/main/resources/itcast/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/main/resources/sqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/domain/Order.java" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/test/java/itcast/test/MyBatisTest2.java" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/domain/User.java" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/domain/Role.java" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/mapper/RoleMapper.java" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/domain/Account.java" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/webapp/save.jsp" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/resources/AccountMapper.xml" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/resources/sqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/controller/AccountController.java" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/webapp/WEB-INF/pages/accountList.jsp" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/resources/sqlMapConfig-spring.xml" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/mapper/AccountMapper.xml" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/mapper/AccountMapper.java" />
+        <option value="$PROJECT_DIR$/day10_mybatis_dao/src/main/resources/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/day11_mybatis_multi/src/main/resources/sqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/test/java/itcast/test/MyBatisTest.java" />
+        <option value="$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/ssm/src/main/java/my/domain/Account.java" />
+        <option value="$PROJECT_DIR$/ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm/src/main/java/my/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/ssm/src/main/resources/sqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/ssm/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/itheima_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/ssm/src/main/java/my/mapper/AccountMapper.java" />
+        <option value="$PROJECT_DIR$/ssm/src/main/java/my/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm/src/main/java/my/controller/AccountController.java" />
+        <option value="$PROJECT_DIR$/ssm/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/ssm/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/service/impl/AccountServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven_repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="447" />
+    <option name="y" value="37" />
+    <option name="width" value="1278" />
+    <option name="height" value="697" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="day10_mybatis_dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima_ssm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="itcast.dao" />
+      <recent name="itcast.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IEDA-Workspace\SSM\ssm\src\main\resources" />
+      <recent name="D:\IEDA-Workspace\SSM\ssm\src\main" />
+      <recent name="D:\IEDA-Workspace\SSM\itheima_ssm\src\main\java\itcast\mapper" />
+      <recent name="D:\IEDA-Workspace\SSM\itheima_ssm\src\main\resources" />
+      <recent name="D:\IEDA-Workspace\SSM\itheima_ssm\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="itcast.test" />
+      <recent name="" />
+      <recent name="itcast.domain" />
+      <recent name="itcast.interceptor" />
+      <recent name="itcast.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IEDA-Workspace\SSM\itheima_ssm\src\main\resources\itcast\mapper" />
+      <recent name="D:\IEDA-Workspace\SSM\itheima_ssm\src\main\resources" />
+      <recent name="D:\IEDA-Workspace\SSM\itheima_ssm\src\main" />
+      <recent name="D:\IEDA-Workspace\SSM\day11_mybatis_anno\src\main\resources\itcast\mapper" />
+      <recent name="D:\IEDA-Workspace\SSM\day11_mybatis_multi\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.31">
+    <configuration name="MyBatisTest2.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day11_mybatis_anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcast.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcast.test" />
+      <option name="MAIN_CLASS_NAME" value="itcast.test.MyBatisTest2" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day11_mybatis_anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcast.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcast.test" />
+      <option name="MAIN_CLASS_NAME" value="itcast.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day11_mybatis_anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcast.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcast.test" />
+      <option name="MAIN_CLASS_NAME" value="itcast.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.findUserAndOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day11_mybatis_anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcast.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcast.test" />
+      <option name="MAIN_CLASS_NAME" value="itcast.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="findUserAndOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.findUserAndRole" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day11_mybatis_anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcast.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcast.test" />
+      <option name="MAIN_CLASS_NAME" value="itcast.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="findUserAndRole" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssm:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SSM" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55527" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyBatisTest.add" />
+      <item itemvalue="JUnit.MyBatisTest.findAll" />
+      <item itemvalue="JUnit.MyBatisTest2.findAll" />
+      <item itemvalue="JUnit.MyBatisTest.findUserAndOrder" />
+      <item itemvalue="JUnit.MyBatisTest.findUserAndRole" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyBatisTest.add" />
+        <item itemvalue="JUnit.MyBatisTest.findUserAndRole" />
+        <item itemvalue="JUnit.MyBatisTest.findUserAndOrder" />
+        <item itemvalue="JUnit.MyBatisTest2.findAll" />
+        <item itemvalue="JUnit.MyBatisTest.findAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e34ff7-24d1-40fc-8454-bed8f1f6ebe1" name="Default Changelist" comment="" />
+      <created>1569326138838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569326138838</updated>
+      <workItem from="1569326140228" duration="324000" />
+      <workItem from="1569326492041" duration="39000" />
+      <workItem from="1569326717154" duration="4864000" />
+      <workItem from="1569335079257" duration="4439000" />
+      <workItem from="1569374936391" duration="21807000" />
+      <workItem from="1569424829810" duration="3310000" />
+      <workItem from="1569458991810" duration="24598000" />
+      <workItem from="1569510749248" duration="4037000" />
+      <workItem from="1569589989194" duration="1976000" />
+      <workItem from="1569631377591" duration="28935000" />
+      <workItem from="1569679182158" duration="1168000" />
+      <workItem from="1569718941088" duration="3127000" />
+      <workItem from="1569829718209" duration="12941000" />
+      <workItem from="1569980849203" duration="20877000" />
+      <workItem from="1570065172347" duration="23004000" />
+      <workItem from="1570162013151" duration="3100000" />
+      <workItem from="1570373295301" duration="3038000" />
+      <workItem from="1570410186725" duration="36828000" />
+      <workItem from="1570457931086" duration="5750000" />
+      <workItem from="1570495561115" duration="32802000" />
+      <workItem from="1570545973418" duration="5809000" />
+      <workItem from="1570582926468" duration="12900000" />
+      <workItem from="1570604035586" duration="25000" />
+      <workItem from="1570669460624" duration="1260000" />
+      <workItem from="1570675850903" duration="5476000" />
+      <workItem from="1570756988451" duration="2616000" />
+      <workItem from="1570773731728" duration="14076000" />
+      <workItem from="1570863241829" duration="1353000" />
+      <workItem from="1570932542682" duration="5721000" />
+      <workItem from="1570977265389" duration="1040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyBatisTest_add - 2019.10.08 at 19h 31m 43s.xml">
+      <configuration name="MyBatisTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest2_findAll - 2019.10.08 at 20h 45m 11s.xml">
+      <configuration name="MyBatisTest2.findAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest2_findAll - 2019.10.08 at 20h 58m 44s.xml">
+      <configuration name="MyBatisTest2.findAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_findUserAndOrder - 2019.10.08 at 21h 17m 23s.xml">
+      <configuration name="MyBatisTest.findUserAndOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_findUserAndOrder - 2019.10.08 at 21h 18m 20s.xml">
+      <configuration name="MyBatisTest.findUserAndOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_findUserAndRole - 2019.10.08 at 21h 40m 11s.xml">
+      <configuration name="MyBatisTest.findUserAndRole" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_findUserAndRole - 2019.10.08 at 22h 48m 08s.xml">
+      <configuration name="MyBatisTest.findUserAndRole" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_findUserAndRole - 2019.10.08 at 22h 51m 26s.xml">
+      <configuration name="MyBatisTest.findUserAndRole" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_findUserAndRole - 2019.10.08 at 22h 54m 22s.xml">
+      <configuration name="MyBatisTest.findUserAndRole" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_add - 2019.10.11 at 10h 11m 09s.xml">
+      <configuration name="MyBatisTest.add" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="287240000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12481089" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3253205" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.27231467" weight="0.13235295" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.622549" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.2009804" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.36437908" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.40695915" visible="true" weight="0.8527005" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5930408" side_tool="true" weight="0.65139115" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32938856" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49712643" weight="0.15196079" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.17019667" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3253205" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49808428" weight="0.5506536" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3611111" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.2009804" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.36437908" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3296" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5019157" side_tool="true" weight="0.8930818" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32938856" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49712643" weight="0.15334421" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.022692889" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_multi/src/main/java/itcast/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="12" column="34" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_anno/src/main/resources/itcast/mapper/UserMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/domain/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_anno/src/test/java/itcast/test/MyBatisTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/domain/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/resources/application.xml" />
+    <entry file="file://$PROJECT_DIR$/day08/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/webapp/save.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/webapp/WEB-INF/pages/accountList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/mapper/AccountMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/resources/itcast/mapper/AccountMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/day10_mybatis_dao/src/main/java/itcast/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08_spring_test/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_multi/src/main/resources/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_multi/src/main/resources/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_multi/src/main/resources/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_anno/src/main/resources/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_anno/src/test/java/itcast/test/MyBatisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/mapper/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/mapper/RoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_mybatis_anno/src/main/java/itcast/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/src/main/java/my/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/src/main/java/my/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/src/main/resources/sqlMapConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/src/main/webapp/WEB-INF/pages/accountList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/src/main/java/my/mapper/AccountMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/src/main/java/my/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/src/main/java/my/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/my/mapper/AccountMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#467#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/resources/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10_mybatis_dao/src/main/resources/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10_mybatis_dao/src/main/resources/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/java/itcast/mapper/AccountMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10_mybatis_dao/src/main/java/itcast/service/ServiceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itheima_ssm/src/main/resources/sqlMapConfig-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>day05_springmvc:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>itheima_ssm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/itheima_ssm" />
+    <option value="clean" />
+    <option value="tomcat7:clean" />
+  </component>
+</project>
