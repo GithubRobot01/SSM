@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="userDao" class="itheima.itheima.itcast.dao.impl.UserDaoImpl">
+        <!--普通数据类型注入
+        <property name="username" value="zhangsan"></property>
+        <property name="age" value="18"></property>-->
+        <!--集合注入-->
+        <property name="list" >
+            <list>
+                <value>zhangsan</value>
+                <value>lisi</value>
+            </list>
+        </property>
+        <property name="map">
+            <map>
+                <entry key="u1" value-ref="user1"></entry>
+                <entry key="u2" value-ref="user2"></entry>
+            </map>
+        </property>
+        <property name="properties">
+            <props>
+                <prop key="host" >127.0.0.1</prop>
+                <prop key="port" >8080</prop>
+            </props>
+        </property>
+    </bean>
+
+    <bean id="user1" class="itheima.itcast.com.itheima.User">
+        <property name="name" value="jack"></property>
+        <property name="age" value="30"></property>
+    </bean>
+    <bean id="user2" class="itheima.itcast.com.itheima.User">
+        <property name="name" value="rose"></property>
+        <property name="age" value="28"></property>
+    </bean>
+    <!--<bean id="userDao" class="factory.StaticFactory" factory-method="getUserDao"></bean>-->
+    <!--<bean id="factory" class="factory.DynamicFactory"></bean>
+    <bean id="userDao" factory-bean="factory" factory-method="getUserDao" />-->
+
+
+    <!--使用set方法依赖注入
+    <bean id="userService" class="itheima.itheima.itcast.service.impl.UserServiceImpl">
+        &lt;!&ndash;userDao为属性名&ndash;&gt;
+        第一个userDao属性名,第二个引用容器中的bean名
+        <property name="userDao" ref="userDao"></property>
+    </bean>
+    -->
+
+    <!--使用set方法依赖注入:p命名空间注入
+    <bean id="userService" class="itheima.itheima.itcast.service.impl.UserServiceImpl" p:userDao-ref="userDao" />-->
+
+    <!--使用有参构造方法注入-->
+    <bean id="userService" class="itheima.itheima.itcast.service.impl.UserServiceImpl">
+        <!--默认调用无参构造方法
+        第一个userDao有参构造的参数,第二个引用容器中的bean名-->
+        <constructor-arg name="userDao" ref="userDao"></constructor-arg>
+    </bean>
+
+    <!--<import resource="applicationContext-user.xml" />
+    <import resource="applicationContext-product.xml" />-->
+</beans>
