@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SSM.iml" filepath="$PROJECT_DIR$/.idea/SSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_spring_ioc/day01_spring_ioc.iml" filepath="$PROJECT_DIR$/day01_spring_ioc/day01_spring_ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_spring_ioc_anno/day02_spring_ioc_anno.iml" filepath="$PROJECT_DIR$/day02_spring_ioc_anno/day02_spring_ioc_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_aop2/day03_aop2.iml" filepath="$PROJECT_DIR$/day03_aop2/day03_aop2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_spring_aop/day03_spring_aop.iml" filepath="$PROJECT_DIR$/day03_spring_aop/day03_spring_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_spring_jdbc/day04_spring_jdbc.iml" filepath="$PROJECT_DIR$/day04_spring_jdbc/day04_spring_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_springmvc/day05_springmvc.iml" filepath="$PROJECT_DIR$/day05_springmvc/day05_springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_springmvc/day07_springmvc.iml" filepath="$PROJECT_DIR$/day07_springmvc/day07_springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08/day08.iml" filepath="$PROJECT_DIR$/day08/day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08_anno/day08_anno.iml" filepath="$PROJECT_DIR$/day08_anno/day08_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08_spring_test/day08_spring_test.iml" filepath="$PROJECT_DIR$/day08_spring_test/day08_spring_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09_mybatis/day09_mybatis.iml" filepath="$PROJECT_DIR$/day09_mybatis/day09_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10_mybatis_dao/day10_mybatis_dao.iml" filepath="$PROJECT_DIR$/day10_mybatis_dao/day10_mybatis_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11_mybatis_anno/day11_mybatis_anno.iml" filepath="$PROJECT_DIR$/day11_mybatis_anno/day11_mybatis_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11_mybatis_multi/day11_mybatis_multi.iml" filepath="$PROJECT_DIR$/day11_mybatis_multi/day11_mybatis_multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_ssm/itheima_ssm.iml" filepath="$PROJECT_DIR$/itheima_ssm/itheima_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm/ssm.iml" filepath="$PROJECT_DIR$/ssm/ssm.iml" />
+    </modules>
+  </component>
+</project>

@@ -167,8 +167,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=local" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="447" />
-    <option name="y" value="37" />
+    <option name="x" value="354" />
+    <option name="y" value="124" />
     <option name="width" value="1278" />
     <option name="height" value="697" />
   </component>
@@ -415,9 +415,7 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="ssm:war exploded" />
-        </option>
+        <option name="BuildArtifacts" enabled="true" />
       </method>
     </configuration>
     <list>
@@ -477,7 +475,7 @@
       <workItem from="1570773731728" duration="14076000" />
       <workItem from="1570863241829" duration="1353000" />
       <workItem from="1570932542682" duration="5721000" />
-      <workItem from="1570977265389" duration="1040000" />
+      <workItem from="1570977265389" duration="3208000" />
     </task>
     <servers />
   </component>
@@ -514,7 +512,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="287240000" />
+    <option name="totallyTimeSpent" value="289408000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,9 +524,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="354" y="124" width="1278" height="697" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12481089" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13546798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -547,7 +545,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.36437908" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.40695915" visible="true" weight="0.8527005" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.40695915" visible="true" weight="0.9221239" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5930408" side_tool="true" weight="0.65139115" />
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32938856" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />

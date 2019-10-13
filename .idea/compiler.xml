@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day03_spring_aop" />
+        <module name="day08" />
+        <module name="day03_aop2" />
+        <module name="day05_springmvc" />
+        <module name="day04_spring_jdbc" />
+        <module name="day10_mybatis_dao" />
+        <module name="day02_spring_ioc_anno" />
+        <module name="day11_mybatis_anno" />
+        <module name="day08_anno" />
+        <module name="day09_mybatis" />
+        <module name="day08_spring_test" />
+        <module name="itheima_spring_ioc_anno" />
+        <module name="day11_mybatis_multi" />
+        <module name="ssm" />
+        <module name="itheima_ssm" />
+        <module name="day07_springmvc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day01_spring_ioc" target="1.5" />
+      <module name="day02_spring_ioc_anno" target="1.5" />
+      <module name="day03_aop2" target="1.5" />
+      <module name="day03_spring_aop" target="1.5" />
+      <module name="day04_spring_jdbc" target="1.5" />
+      <module name="day05_springmvc" target="1.5" />
+      <module name="day07_springmvc" target="1.5" />
+      <module name="day07_springmvc_test" target="1.5" />
+      <module name="day08" target="1.5" />
+      <module name="day08_anno" target="1.5" />
+      <module name="day08_spring_test" target="1.5" />
+      <module name="day09_mybatis" target="1.5" />
+      <module name="day10_mybatis_dao" target="1.5" />
+      <module name="day11_mybatis_anno" target="1.5" />
+      <module name="day11_mybatis_multi" target="1.5" />
+      <module name="itheima_spring_ioc_anno" target="1.5" />
+      <module name="itheima_ssm" target="1.8" />
+      <module name="ssm" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
