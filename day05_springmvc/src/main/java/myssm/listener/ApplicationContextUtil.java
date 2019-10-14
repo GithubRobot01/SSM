@@ -1,4 +1,4 @@
-package itcast.listener;
+package myssm.listener;
 
 import org.springframework.context.ApplicationContext;
 

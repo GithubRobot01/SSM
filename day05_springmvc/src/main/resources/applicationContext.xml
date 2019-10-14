@@ -5,7 +5,7 @@
 
     <bean id="userDao" class="com.itheima.itcast.dao.impl.UserDaoImpl" />
 
-    <bean id="userService" class="com.itheima.itcast.service.impl.UserServiceImpl">
+    <bean id="userService" class="com.itheima.itcast.itcast.service.impl.UserServiceImpl">
         <property name="userDao" ref="userDao" />
     </bean>
 </beans>

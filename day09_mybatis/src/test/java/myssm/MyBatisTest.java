@@ -1,4 +1,4 @@
-package itcast;
+package myssm;
 
 import itcast.domain.User;
 import org.apache.ibatis.io.Resources;

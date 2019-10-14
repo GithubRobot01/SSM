@@ -10,6 +10,7 @@
     <file type="web" url="file://$PROJECT_DIR$/day09_mybatis" />
     <file type="web" url="file://$PROJECT_DIR$/itheima_ssm" />
     <file type="web" url="file://$PROJECT_DIR$/ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm2" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -34,6 +35,7 @@
         <option value="$PROJECT_DIR$/daty11_mybatis_anno/pom.xml" />
         <option value="$PROJECT_DIR$/itheima_ssm/pom.xml" />
         <option value="$PROJECT_DIR$/ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm2/pom.xml" />
       </list>
     </option>
   </component>

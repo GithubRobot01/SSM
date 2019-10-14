@@ -43,7 +43,7 @@
 
 
     <!--使用set方法依赖注入
-    <bean id="userService" class="itheima.itheima.itcast.service.impl.UserServiceImpl">
+    <bean id="userService" class="itheima.itheima.myssm.myssm.service.impl.UserServiceImpl">
         &lt;!&ndash;userDao为属性名&ndash;&gt;
         第一个userDao属性名,第二个引用容器中的bean名
         <property name="userDao" ref="userDao"></property>
@@ -51,10 +51,10 @@
     -->
 
     <!--使用set方法依赖注入:p命名空间注入
-    <bean id="userService" class="itheima.itheima.itcast.service.impl.UserServiceImpl" p:userDao-ref="userDao" />-->
+    <bean id="userService" class="itheima.itheima.myssm.myssm.service.impl.UserServiceImpl" p:userDao-ref="userDao" />-->
 
     <!--使用有参构造方法注入-->
-    <bean id="userService" class="itheima.itheima.itcast.service.impl.UserServiceImpl">
+    <bean id="userService" class="itheima.itheima.itcast.itcast.service.impl.UserServiceImpl">
         <!--默认调用无参构造方法
         第一个userDao有参构造的参数,第二个引用容器中的bean名-->
         <constructor-arg name="userDao" ref="userDao"></constructor-arg>

@@ -1,4 +1,4 @@
-package itcast.web;
+package myssm.web;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

@@ -2,8 +2,8 @@
 <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
     <typeAliases>
-        <package name="itcast.domain"/>
-        <!--<typeAlias type="itcast.domain.Account" alias="account"/>-->
+        <package name="myssm.myssm.domain"/>
+        <!--<typeAlias type="myssm.Account" alias="account"/>-->
     </typeAliases>
 
 </configuration>

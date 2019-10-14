@@ -22,7 +22,7 @@ public interface OrderMapper {
                     property = "user", //要封装的属性名称
                     javaType = User.class, //要封装的实体类型
                     //代表查询那个接口的方法获得数据
-                    one = @One(select = "itcast.mapper.UserMapper.findById")
+                    one = @One(select = "myssm.UserMapper.findById")
             )
     })
     List<Order> findAll();

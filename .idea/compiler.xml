@@ -10,18 +10,19 @@
         <module name="day08" />
         <module name="day03_aop2" />
         <module name="day05_springmvc" />
+        <module name="ssm2" />
         <module name="day04_spring_jdbc" />
         <module name="day10_mybatis_dao" />
         <module name="day02_spring_ioc_anno" />
         <module name="day11_mybatis_anno" />
         <module name="day08_anno" />
+        <module name="day07_springmvc" />
         <module name="day09_mybatis" />
-        <module name="day08_spring_test" />
+        <module name="ssm" />
         <module name="itheima_spring_ioc_anno" />
         <module name="day11_mybatis_multi" />
-        <module name="ssm" />
         <module name="itheima_ssm" />
-        <module name="day07_springmvc" />
+        <module name="day08_spring_test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -43,6 +44,7 @@
       <module name="itheima_spring_ioc_anno" target="1.5" />
       <module name="itheima_ssm" target="1.8" />
       <module name="ssm" target="1.5" />
+      <module name="ssm2" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

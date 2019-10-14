@@ -22,11 +22,11 @@
         <property name="dataSource" ref="dataSource"/>
     </bean>
 
-    <!--<bean id="accountDao" class="itheima.itcast.dao.impl.AccountDaoImpl">
+    <!--<bean id="accountDao" class="itheima.myssm.dao.impl.AccountDaoImpl">
         <property name="jdbcTemplate" ref="jdbcTemplate"/>
     </bean>
 
-    <bean id="accountService" class="itheima.itcast.service.impl.AccountServiceImpl">
+    <bean id="accountService" class="itheima.myssm.myssm.service.impl.AccountServiceImpl">
         <property name="accountDao" ref="accountDao"/>
     </bean>-->
 
@@ -42,7 +42,7 @@
     </tx:advice>
 
     <aop:config>
-        <aop:advisor advice-ref="myadvice" pointcut="execution(* itheima.itcast.service.impl.*.*(..))"/>
+        <aop:advisor advice-ref="myadvice" pointcut="execution(* itheima.myssm.myssm.service.impl.*.*(..))"/>
     </aop:config>-->
 
    <!-- &lt;!&ndash;事务的注解驱动&ndash;&gt;

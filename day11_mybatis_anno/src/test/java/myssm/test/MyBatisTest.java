@@ -1,4 +1,4 @@
-package itcast.test;
+package myssm.test;
 
 import itcast.domain.User;
 import itcast.mapper.UserMapper;

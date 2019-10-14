@@ -4,8 +4,8 @@
     <properties resource="jdbc.properties"/>
 
     <typeAliases>
-        <package name="itcast.domain"/>
-        <!--<typeAlias type="itcast.domain.Account" alias="account"/>-->
+        <package name="myssm.myssm.domain"/>
+        <!--<typeAlias type="myssm.Account" alias="account"/>-->
     </typeAliases>
     
     <environments default="development">
@@ -21,7 +21,7 @@
     </environments>
     
     <mappers>
-        <mapper resource="AccountMapper.xml"/>
+        <itcast.mapper resource="AccountMapper.xml"/>
     </mappers>
 
 </configuration>

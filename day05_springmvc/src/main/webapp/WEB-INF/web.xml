@@ -47,7 +47,7 @@
     </filter-mapping>
     <!--<servlet>
         <servlet-name>UserServlet</servlet-name>
-        <servlet-class>itcast.web.UserServlet</servlet-class>
+        <servlet-class>myssm.web.UserServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>UserServlet</servlet-name>

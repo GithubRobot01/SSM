@@ -5,9 +5,9 @@
     <properties resource="jdbc.properties"/>
 
     <typeAliases>
-        <typeAlias type="itcast.domain.User" alias="user"/>
-        <typeAlias type="itcast.domain.Order" alias="order"/>
-        <typeAlias type="itcast.domain.Role" alias="role"/>
+        <typeAlias type="myssm.itcast.domain.User" alias="user"/>
+        <typeAlias type="myssm.itcast.domain.Order" alias="order"/>
+        <typeAlias type="myssm.itcast.domain.Role" alias="role"/>
     </typeAliases>
 
     <environments default="development">
@@ -22,8 +22,8 @@
         </environment>
     </environments>
     <mappers>
-        <mapper resource="UserMapper.xml"/>
-        <mapper resource="OrderMapper.xml"/>
+        <itcast.mapper resource="UserMapper.xml"/>
+        <itcast.mapper resource="OrderMapper.xml"/>
     </mappers>
 
 </configuration>

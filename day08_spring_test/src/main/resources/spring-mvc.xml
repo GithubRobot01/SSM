@@ -22,7 +22,7 @@
     <mvc:default-servlet-handler/>
 
     <!--组件扫描,扫描controller-->
-    <context:component-scan base-package="itcast.controller"/>
+    <context:component-scan base-package="myssm.itcast.controller"/>
 
     <!--配置权限拦截器-->
     <mvc:interceptors>

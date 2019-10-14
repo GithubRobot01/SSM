@@ -4,7 +4,7 @@
     <properties resource="jdbc.properties"/>
 
     <typeAliases>
-        <typeAlias type="itcast.domain.User" alias="user"/>
+        <typeAlias type="myssm.itcast.domain.User" alias="user"/>
     </typeAliases>
 
     <environments default="development">
@@ -22,7 +22,7 @@
     <!--加载映射关系-->
     <mappers>
         <!--指定接口所在的包-->
-        <package name="itcast.mapper"/>
+        <package name="myssm.myssm.mapper"/>
     </mappers>
 
 </configuration>

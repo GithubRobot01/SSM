@@ -9,6 +9,6 @@ import org.springframework.stereotype.Repository;
 public class UserDaoImpl implements UserDao {
 
     public void save() {
-        System.out.println("itheima.itcast.dao...save");
+        System.out.println("itheima.myssm.dao...save");
     }
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!DOCTYPE itcast.mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-itcast.mapper.dtd">
 
-<mapper namespace="userMapper" >
+<itcast.mapper namespace="userMapper" >
 
     <select id="findAll" resultType="User" parameterType="java.lang.String">
         select * from user where username=#{name}
@@ -21,4 +21,4 @@
     <update id="updateUser" parameterType="User">
         update user set username=#{username},password=#{password} where id=#{id}
     </update>
-</mapper>
+</itcast.mapper>

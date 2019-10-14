@@ -1,4 +1,4 @@
-package itcast.converter;
+package myssm.converter;
 
 import org.springframework.core.convert.converter.Converter;
 

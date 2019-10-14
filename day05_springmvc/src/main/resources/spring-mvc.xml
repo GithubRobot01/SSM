@@ -9,7 +9,7 @@
 ">
 
 
-    <context:component-scan base-package="com.itheima.itcast.controller" >
+    <context:component-scan base-package="com.itheima.itcast.itcast.controller" >
         <!--<context:include-filter type="annotation" expression="org.springframework.stereotype.Controller"/>-->
     </context:component-scan>
 
@@ -29,7 +29,7 @@
         </property>
     </bean>-->
 
-    <mvc:annotation-driven conversion-itcast.service="conversionService"/>
+    <mvc:annotation-driven conversion-itcast.itcast.service="conversionService"/>
 
     <!--开放资源的访问-->
     <!--<mvc:resources mapping="/js/**" location="/js/" />-->
@@ -40,7 +40,7 @@
     <bean id="conversionService" class="org.springframework.context.support.ConversionServiceFactoryBean">
         <property name="converters">
             <list>
-                <bean class="itcast.converter.DateConverter"></bean>
+                <bean class="myssm.converter.DateConverter"></bean>
             </list>
         </property>
     </bean>

@@ -11,7 +11,7 @@
        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
 ">
 
-    <context:component-scan base-package="itcast">
+    <context:component-scan base-package="myssm">
         <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
     </context:component-scan>
 
@@ -34,8 +34,8 @@
     </bean>
 
     <!--扫描mapper所在的包 为mapper创建实现类-->
-    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-        <property name="basePackage" value="itcast.mapper"/>
+    <bean class="org.mybatis.spring.itcast.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="myssm.myssm.mapper"/>
     </bean>
 
     <!--声明式事务控制-->
@@ -52,6 +52,6 @@
 
     <!--事务的aop织入-->
     <aop:config>
-        <aop:advisor advice-ref="myAdvice" pointcut="execution(* itcast.service.impl.*.*(..))"/>
+        <aop:advisor advice-ref="myAdvice" pointcut="execution(* myssm.itcast.service.impl.*.*(..))"/>
     </aop:config>
 </beans>

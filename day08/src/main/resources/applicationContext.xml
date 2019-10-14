@@ -38,9 +38,9 @@
     </tx:advice>
     <!--事务的aop增强-->
     <aop:config>
-        <!--<aop:pointcut id="myPointcut" expression="execution(* cn.itcast.service.impl.*.*(..))"/>
+        <!--<aop:pointcut id="myPointcut" expression="execution(* cn.myssm.myssm.service.impl.*.*(..))"/>
         <aop:advisor advice-ref="myAdvice" pointcut-ref="myPointcut"/>-->
-        <aop:advisor advice-ref="myAdvice" pointcut="execution(* cn.itcast.service.impl.*.*(..))"/>
+        <aop:advisor advice-ref="myAdvice" pointcut="execution(* cn.itcast.itcast.service.impl.*.*(..))"/>
     </aop:config>
 
     <aop:aspectj-autoproxy />

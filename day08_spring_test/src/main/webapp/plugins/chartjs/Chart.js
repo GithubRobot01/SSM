@@ -1387,7 +1387,7 @@
 		currentStep: null, // the current animation step
 		numSteps: 60, // default number of steps
 		easing: "", // the easing to use for this animation
-		render: null, // render function used by the animation itcast.service
+		render: null, // render function used by the animation myssm.myssm.service
 		
 		onAnimationProgress: null, // user specified callback to fire on each step of the animation 
 		onAnimationComplete: null, // user specified callback to fire when the animation finishes
