@@ -11,7 +11,7 @@
        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
 ">
     <!--扫描service-->
-    <context:component-scan base-package="my.itcast.service"/>
+    <context:component-scan base-package="my.service"/>
     <!--加载properties文件-->
     <context:property-placeholder location="classpath:jdbc.properties"/>
 
@@ -29,7 +29,7 @@
     </bean>
 
     <!--扫描mapper所在包 创建mapper实现类-->
-    <bean class="org.mybatis.spring.itcast.mapper.MapperScannerConfigurer">
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <property name="basePackage" value="my.myssm.mapper"/>
     </bean>
 
