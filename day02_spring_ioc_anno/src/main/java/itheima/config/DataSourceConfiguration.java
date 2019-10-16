@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 import javax.sql.DataSource;
 import java.beans.PropertyVetoException;
 
-@PropertySource("classpath:jdbc.properties")
+@PropertySource("classpath:jdbc.properties") //加载jdbc.properties文件中的配置
 public class DataSourceConfiguration {
     @Value("${jdbc.driver}")
     private String driver;
@@ -20,7 +20,7 @@ public class DataSourceConfiguration {
     @Value("${jdbc.password}")
     private String password;
 
-    @Bean("dataSource")
+    @Bean("dataSource") //将该方法的返回值(DataSource)放入spring容器
     public DataSource getDataSource() throws PropertyVetoException {
         ComboPooledDataSource dataSource=new ComboPooledDataSource();
         dataSource.setDriverClass(driver);

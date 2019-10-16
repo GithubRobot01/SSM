@@ -1,5 +1,5 @@
 package aop;
 
 public interface TargetInterface {
-    void save();
+    void method();
 }

@@ -14,9 +14,8 @@ public class AopTest {
     @Autowired
     private TargetInterface target;
 
-
     @Test
     public void test(){
-        target.save();
+        target.method();
     }
 }

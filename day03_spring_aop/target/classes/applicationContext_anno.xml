@@ -8,8 +8,8 @@
        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <!--组件扫描-->
+    <!--&lt;!&ndash;组件扫描&ndash;&gt;
     <context:component-scan base-package="aop_anno" />
-    <!--aop自动代理-->
-    <aop:aspectj-autoproxy />
+    &lt;!&ndash;aop自动代理&ndash;&gt;
+    <aop:aspectj-autoproxy />-->
 </beans>
